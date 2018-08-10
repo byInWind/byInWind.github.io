@@ -1,4 +1,5 @@
-### 在html中导入一段html代码的功能
+### 在html中导入一段html代码的功能  
+date:2018-08-10  
 需求：不通过后端的include语法，在html中导入一段html代码的功能 
 比如项目里有许多通用的html结构，侧边栏导航或者顶部，底部等html结构   
 
@@ -36,4 +37,4 @@ index.html
 </html>
 ```
 缺点：兼容性差，目前只有新版chrome支持  
-想法3：webpack等工具实现
+想法3：webpack等工具实现   

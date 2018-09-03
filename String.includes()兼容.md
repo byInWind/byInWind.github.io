@@ -1,1 +1,1 @@
-String.includes()在低版本手机里无效，改为String.indexOf()迂回判断
+String.includes()在低版本手机里无效，改为String.indexOf()迂回判断 
